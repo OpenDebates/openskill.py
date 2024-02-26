@@ -10,4 +10,4 @@ sphinx-copybutton~=0.5
 sphinx-autoapi~=3.0.0
 sphinxext-opengraph~=0.8
 sphinxcontrib-bibtex~=2.6.1
-sphinx-autodoc-typehints~=1.25.0
+sphinx-autodoc-typehints~=2.0.0
